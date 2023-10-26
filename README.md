@@ -77,7 +77,7 @@
 
 
 ###
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr7aali" alt="mr7aali" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr7aali" alt="mr7aali" /></a> </p>
 <div align="center">
   <a href="https://open.spotify.com/user/31tpoomek2qchjgjhqo76ctxu2r4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tpoomek2qchjgjhqo76ctxu2r4&count=5&unique=true" alt="Spotify recently played"  />
