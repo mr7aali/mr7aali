@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img height="200" src="https://i.ibb.co/7k31hFD/elevated-view-laptop-stationeries-yellow-backdrop.jpg"  />
+</div>
 
 
 
@@ -22,7 +24,7 @@
  
 </div>
 <div align="center">
-  <img height="200" src="https://i.ibb.co/7k31hFD/elevated-view-laptop-stationeries-yellow-backdrop.jpg"  />
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=mr7aali&label=Profile%20views&color=0e75b6&style=flat" alt="mr7aali" /> </p>
 </div>
 
 ###
