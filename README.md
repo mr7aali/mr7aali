@@ -21,8 +21,9 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/mr7aali/count.svg?"  />
-  <img src="https://komarev.com/ghpvc/?username=mr7aali&label=Profile%20views&color=0e75b6&style=flat" alt="mr7aali" /> 
+ 
 </div>
+ <img src="https://komarev.com/ghpvc/?username=mr7aali&label=Profile%20views&color=0e75b6&style=flat" alt="mr7aali" /> 
 
 ###
 
