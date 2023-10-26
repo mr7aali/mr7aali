@@ -2,6 +2,15 @@
   <img height="200" src="https://i.ibb.co/7k31hFD/elevated-view-laptop-stationeries-yellow-backdrop.jpg"  />
 </div>
 
+
+
+<h1 align="center">Hi 👋, I'm Ali</h1>
+<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+
+
+
+
+
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr7aali&label=Profile%20views&color=0e75b6&style=flat" alt="mr7aali" /> </p>
 <div align="center">
