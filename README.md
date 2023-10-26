@@ -12,7 +12,7 @@
 
 
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr7aali&label=Profile%20views&color=0e75b6&style=flat" alt="mr7aali" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mr7aali&label=Profile%20views&color=0e75b6&style=flat" alt="mr7aali" /> </p>
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=mr7aali&theme=merko" alt="Layout with last medium posts"  />
 </div>
