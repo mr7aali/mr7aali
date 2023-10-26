@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/7k31hFD/elevated-view-laptop-stationeries-yellow-backdrop.jpg"  />
+  <img height="200" src="https://i.ibb.co/j3fDZYd/IMG-20231018-160911.jpg"  />
 </div>
 
 
