@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://i.ibb.co/7k31hFD/elevated-view-laptop-stationeries-yellow-backdrop.jpg"  />
-</div>
+
 
 
 
@@ -23,7 +21,9 @@
   <img src="https://profile-counter.glitch.me/mr7aali/count.svg?"  />
  
 </div>
- <img  align="center" src="https://komarev.com/ghpvc/?username=mr7aali&label=Profile%20views&color=0e75b6&style=flat" alt="mr7aali" /> 
+<div align="center">
+  <img height="200" src="https://i.ibb.co/7k31hFD/elevated-view-laptop-stationeries-yellow-backdrop.jpg"  />
+</div>
 
 ###
 
