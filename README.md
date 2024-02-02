@@ -9,7 +9,7 @@
 
 ###
 
-- 🔭 My portfolio link [Portfolio](https://mr7aali.vercel.app/](https://aali7dev.vercel.app/)
+- 🔭 My portfolio link [Portfolio](https://aali7dev.vercel.app/)
 - 👯 How to reach me [mr7aali@gmail.com](mailto:mr7aali@gmail.com)
 - 🌱 I’m currently learning **Python, Django**
 
