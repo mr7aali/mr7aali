@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sheikh Sukur Ali</h1>
 <h3 align="center">MERN Stack Developer | Crafting Scalable & Responsive Web Apps from Bangladesh</h3>
 
-- 🔭 Explore my work at [Portfolio]([https://aali7dev.vercel.app/](https://ali-portfolio-2-0.vercel.app/))
+- 🔭 Explore my work at [Portfolio](https://ali-portfolio-2-0.vercel.app/)
 - 📫 Reach me at [mr7aali@gmail.com](mailto:mr7aali@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mr7aali/)
 - 🌱 I’m diving deeper into **Python**, **Django**, and **React Native** for full-stack and mobile development.
 
