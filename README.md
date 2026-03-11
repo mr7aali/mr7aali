@@ -1,68 +1,155 @@
 <div align="center">
-  <img height="150" src="https://i.ibb.co/j3fDZYd/IMG-20231018-160911.jpg" alt="Sheikh Sukur Ali" />
+
+```
+███████╗██╗  ██╗███████╗██╗██╗  ██╗    ███████╗██╗   ██╗██╗  ██╗██╗   ██╗██████╗      █████╗ ██╗     ██╗
+██╔════╝██║  ██║██╔════╝██║██║ ██╔╝    ██╔════╝██║   ██║██║ ██╔╝██║   ██║██╔══██╗    ██╔══██╗██║     ██║
+███████╗███████║█████╗  ██║█████╔╝     ███████╗██║   ██║█████╔╝ ██║   ██║██████╔╝    ███████║██║     ██║
+╚════██║██╔══██║██╔══╝  ██║██╔═██╗     ╚════██║██║   ██║██╔═██╗ ██║   ██║██╔══██╗    ██╔══██║██║     ██║
+███████║██║  ██║███████╗██║██║  ██╗    ███████║╚██████╔╝██║  ██╗╚██████╔╝██║  ██║    ██║  ██║███████╗██║
+╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝   ╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝
+```
+
+### Full Stack Developer · Dhaka, Bangladesh
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr7aali)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mr7aali)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr7aali@gmail.com)
+[![Phone](https://img.shields.io/badge/+880_1967519057-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801967519057)
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Sheikh Sukur Ali</h1>
-<h3 align="center">MERN Stack Developer | Crafting Scalable & Responsive Web Apps from Bangladesh</h3>
+---
 
-- 🔭 Explore my work at [Portfolio](https://ali-portfolio-2-0.vercel.app/)
-- 📫 Reach me at [mr7aali@gmail.com](mailto:mr7aali@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mr7aali/)
-- 🌱 I’m diving deeper into **Python**, **Django**, and **React Native** for full-stack and mobile development.
+## 👨‍💻 About Me
+
+> *Full Stack Developer with hands-on experience building scalable web platforms — from pixel-perfect frontends to robust backend architectures.*
+
+- 🏢 Currently a **Backend Developer** at **Betopia Group**, Dhaka
+- 🎓 BSc in Computer Science @ **Bangladesh University of Business and Technology** *(GPA: 3.58/4.00)*
+- 🚀 Passionate about **real-time systems**, **clean architecture**, and **great UX**
+- 🔭 Building production-grade apps with **NestJS**, **Next.js**, **PostgreSQL**, and **Prisma**
+- 📬 Reach me at **mr7aali@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### Databases & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+---
+
+## 💼 Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| Jan 2026 – Present | 🔧 Backend Developer | **Betopia Group**, Mohakhali |
+| Sep 2025 – Dec 2025 | ⚡ Next.js Developer | **CodenVibe**, Uttara |
+| Jan 2023 – Feb 2025 | 🌐 MERN Stack Developer | **Rokomari**, Motijheel |
+
+---
 
 ## 🚀 Featured Projects
-- **[Kasra Design Clone](https://your-vercel-link.vercel.app/)**: A responsive web app built with Next.js, Tailwind CSS, YouTube API, and Framer Motion. [GitHub](https://github.com/mr7aali/kasra-design-clone)
-- **[Food Ordering System](https://your-vercel-link.vercel.app/)**: Full-stack app with Node.js, Express.js, and MongoDB, featuring a chatbot. [GitHub](https://github.com/mr7aali/food-ordering-system)
-- **[ReadyAuth](https://your-vercel-link.vercel.app/)**: Secure authentication system using Express.js and MongoDB. [GitHub](https://github.com/mr7aali/readyauth)
-- **[Personal Portfolio](https://aali7dev.vercel.app/)**: Showcases my frontend skills with Next.js. [GitHub](https://github.com/mr7aali/ek_portfolio)
 
-## 💼 Work Experience
-**Frontend Developer at Rokomari.com** (Jan 2023 – Dec 2024)
-- Developed responsive e-commerce interfaces using Next.js, TypeScript, Tailwind CSS, and SCSS.
-- Integrated APIs to enhance search functionality and user experience.
+### 📦 Multi-Service Delivery & Logistics Platform
+> `NestJS` · `PostgreSQL` · `Prisma` · `WebSockets` · `Cloudinary` · `JWT`
 
-## 🛠️ Skills
-**Frontend**: 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo" />
-<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo" />
+Real-time delivery platform connecting **customers, riders, and merchants** with GPS tracking, WebSocket order broadcasting, a comprehensive wallet system with automatic commission deduction, and a proof-of-service system with media uploads.
 
-**Backend**: 
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo" />
-<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo" />
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/mr7aali)
 
-**Tools & Others**: 
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" height="30" alt="tailwind logo" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="prisma logo" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo" />
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mr7aali/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/mr7aali" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="twitter logo" />
-  </a>
-  <a href="https://www.facebook.com/mr07aali/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="facebook logo" />
-  </a>
-  <a href="https://www.instagram.com/mr7aali/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://wa.me/8801967519057" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="40" alt="whatsapp logo" />
-  </a>
-</div>
+### 🛒 Vendor-Buyer E-Commerce Platform
+> `NestJS` · `PostgreSQL` · `Prisma` · `Stripe` · `JWT` · `Cloudinary`
+
+Vendor marketplace with **unique vendor codes**, Stripe Payment Intents & webhooks, role-based access control, real-time vendor–buyer messaging, coupon management, and comprehensive notification system.
+
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/mr7aali)
+
+---
+
+### 🚚 CourierTrack — Courier Management System
+> `Next.js 15` · `NestJS` · `Tailwind CSS` · `Mongoose` · `TypeScript`
+
+Full-featured courier platform with **real-time parcel tracking**, unique tracking IDs, agent management, COD/online payment processing, multi-channel notifications (email/SMS/in-app), and analytics dashboard.
+
+[![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/mr7aali)
+
+---
+
+### 🍔 Full-Stack Food Ordering Platform
+> `Next.js` · `ExpressJS` · `Tailwind CSS` · `MongoDB` · `Stripe` · `NextAuth`
+
+End-to-end food ordering site with **Google & Email auth**, Stripe payments, Cloudinary image storage, EmailJS support, and an admin dashboard for managing restaurants, users, and orders.
+
+[![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/mr7aali)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr7aali&show_icons=true&theme=dracula&hide_border=false&order=1" height="120" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=mr7aali&theme=dracula&hide_border=false&order=3" height="120" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr7aali&layout=compact&langs_count=5&theme=dracula&hide_border=false&order=2" height="120" alt="languages graph" />
+
+![Sheikh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr7aali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr7aali&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mr7aali&theme=tokyonight&hide_border=true)
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mr7aali&label=Profile%20views&color=0e75b6&style=flat" alt="mr7aali" />
-</p>
+---
 
-## 🤝 Let’s Connect!
-I’m always open to exciting projects and opportunities to build scalable web applications. Feel free to reach out via [email](mailto:mr7aali@gmail.com) or check out my [portfolio](https://aali7dev.vercel.app/)!
+## 🎓 Education
+
+**Bangladesh University of Business and Technology** — Dhaka, Bangladesh
+BSc in Computer Science · *Expected Dec 2025* · **GPA: 3.58 / 4.00**
+
+*Relevant coursework: Data Structures, Algorithms, Web Development, Database Systems*
+*Capstone: Stroke Prediction Model using Machine Learning*
+
+---
+
+<div align="center">
+
+*"Building things that scale, look great, and just work."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mr7aali&color=6366f1&style=flat-square&label=Profile+Views)
+
+</div>
