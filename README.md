@@ -25,7 +25,7 @@
 > *Full Stack Developer with hands-on experience building scalable web platforms — from pixel-perfect frontends to robust backend architectures.*
 
 - 🏢 Currently a **Backend Developer** at **Betopia Group**, Dhaka
-- 🎓 BSc in Computer Science @ **Bangladesh University of Business and Technology** *(GPA: 3.58/4.00)*
+- 🎓 BSc in Computer Science @ **Bangladesh University of Business and Technology** *(GPA: 3.31/4.00)*
 - 🚀 Passionate about **real-time systems**, **clean architecture**, and **great UX**
 - 🔭 Building production-grade apps with **NestJS**, **Next.js**, **PostgreSQL**, and **Prisma**
 - 📬 Reach me at **mr7aali@gmail.com**
